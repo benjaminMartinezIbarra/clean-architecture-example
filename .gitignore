@@ -1,0 +1,5 @@
+/.idea/
+/application/build/
+/adapters/inbound/build/
+/adapters/outbound/build/
+/.gradle/
