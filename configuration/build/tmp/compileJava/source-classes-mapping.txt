@@ -1,0 +1,8 @@
+com/configuration/app/DoSomethingApplication.java
+ com.configuration.app.DoSomethingApplication
+com/configuration/app/MessageLauncher.java
+ com.configuration.app.MessageLauncher
+com/configuration/app/config/CommonConfiguration.java
+ com.configuration.app.config.CommonConfiguration
+com/configuration/app/config/ConfigurationA.java
+ com.configuration.app.config.ConfigurationA

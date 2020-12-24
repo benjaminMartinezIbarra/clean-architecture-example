@@ -1,0 +1,6 @@
+com/example/cleanarchitecture/service/ServiceA.java
+ com.example.cleanarchitecture.service.ServiceA
+com/example/cleanarchitecture/service/ServiceAImpl.java
+ com.example.cleanarchitecture.service.ServiceAImpl
+com/example/cleanarchitecture/service/GatewayA.java
+ com.example.cleanarchitecture.service.GatewayA

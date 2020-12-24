@@ -1,0 +1,8 @@
+rootProject.name = 'clean-architecture-application'
+include 'adapters:outbound'
+findProject(':adapters:outbound')?.name = 'outbound'
+include 'adapters:inbound'
+findProject(':adapters:inbound')?.name = 'inbound'
+include 'configuration'
+include 'application'
+
